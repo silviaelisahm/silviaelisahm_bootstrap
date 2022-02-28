@@ -1,0 +1,80 @@
+*{
+	font-family: 'Bebas Neue', cursive;
+}
+
+h1{
+	font-size: 40px;
+	color: hotpink;
+}
+p {
+	font-size: 20px;
+}
+
+nav{
+	background-color: pink;
+}
+
+.navbar-collapse{
+	justify-content: flex-end;
+}
+.navbar img{
+    width: 70px;
+    height: auto;
+}
+
+h1 {
+	font-size: 30px;
+	padding: 15px;
+}
+#galeria img{
+	width:350px;
+	height:auto;
+}
+#galeria .col-lg-4{
+	padding:  25px;
+	margin: 0px;
+}
+footer{
+	background-color: pink;
+}
+.footer_logo{
+	width: 70px;
+	height: auto;
+}
+footer img{
+	width: 30px;
+	height: auto;
+}
+footer h3{
+	color: black;
+	font-size: 20px;
+}
+iframe {
+	height: 200px;
+	width: auto;
+	justify-content: center;
+}
+.purple {
+	height: 400px;
+	width: auto;
+	text-align: center;
+}
+
+.levi {
+	height: 100%;
+	width: auto;
+}
+.levi img:hover{
+	color: hotpink;
+}
+.fezco {
+	height: 100%;
+	width: auto;
+}
+.bio {
+	justify-content: center;
+}
+
+.text-center{
+	text-align: justify;
+}

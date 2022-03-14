@@ -78,3 +78,5 @@ iframe {
 .text-center{
 	text-align: justify;
 }
+#imgMk img:hover {
+  transform: scale(1.15); }
